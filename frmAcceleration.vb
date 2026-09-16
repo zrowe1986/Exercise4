@@ -31,7 +31,7 @@
         txtTime.Clear()
     End Sub
 
-    ' Quit
+    ' 
     Private Sub btnEnd_Click(sender As Object, e As EventArgs) Handles btnEnd.Click
         Me.Close()
     End Sub
